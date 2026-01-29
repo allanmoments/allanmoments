@@ -1,60 +1,61 @@
-# 👋 Hi, I'm Allan
+# Hi, I’m Allan
 
-### 🚀 Senior Data Engineer | Azure & GCP | Data Lakehouse | Fabric | Python
+### Senior Data Engineer | Azure & GCP | Data Lakehouse | Microsoft Fabric | Python
 
----
-
-💡 I design and build **scalable, intelligent data platforms** using cloud technologies and modern tools. I help businesses unlock insights through clean architecture, automation, and analytics.
+I design and build scalable data platforms using cloud-native and open-source technologies. My work focuses on clean architecture, automation, and analytics that enable reliable decision-making.
 
 ---
 
-### 🧰 Tech Toolbox
+## Tech Stack
 
-#### ☁️ **Cloud Platforms**
+### Cloud Platforms
 - **Microsoft Azure:** Synapse, Data Factory, Data Lake Storage, Purview, Azure AI
 - **Google Cloud Platform:** BigQuery, Cloud Storage, Dataflow, Pub/Sub, Looker, Vertex AI
 
-#### 🔄 **Data Engineering Tools**
-- Microsoft Fabric (Synapse, Pipelines, Spark Pools, Notebooks)
-- Databricks & Delta Lake
+### Data Engineering
+- Microsoft Fabric (Synapse, Data Pipelines, Spark, Notebooks)
+- Databricks and Delta Lake
 - Apache Airflow, dbt
-- ETL/ELT Design & Automation
+- ETL and ELT architecture and automation
 
-#### 🧠 **Languages**
+### Programming
 - Python (Pandas, NumPy, PySpark)
-- SQL (T-SQL, Advanced Querying)
+- SQL (T-SQL, advanced analytical queries)
 - Shell scripting
 
-#### 🗃️ **Databases**
-- SQL Server, PostgreSQL, MongoDB, Cosmos DB
+### Databases
+- SQL Server
+- PostgreSQL
+- MongoDB
+- Azure Cosmos DB
 
-#### 🛠️ **DevOps & Infrastructure**
-- Git, Jenkins, Docker, Kubernetes
+### DevOps and Infrastructure
+- Git
+- Jenkins
+- Docker
+- Kubernetes
 
-#### 📊 **Analytics & ML**
-- Power BI, Looker
-- Statistical Modeling
-- ML: Classification, Regression, Clustering
-- MLOps for scalable model delivery
+### Analytics and Machine Learning
+- Power BI
+- Looker
+- Statistical analysis
+- Machine learning, classification, regression, clustering
+- MLOps for production model deployment
 
 ---
 
-### 🎓 Certifications
+## Certifications
 
-- Microsoft Certified: Fabric Data Engineer Associate  
-- Microsoft Certified: Fabric Analytics Engineer  
-- Microsoft Certified: Power BI Data Analyst  
-- Microsoft Certified: Azure Data Fundamentals  
-- Microsoft Certified: Azure AI Fundamentals  
-- CompTIA DataX  
+- Microsoft Certified: Fabric Data Engineer Associate
+- Microsoft Certified: Fabric Analytics Engineer
+- Microsoft Certified: Power BI Data Analyst
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Certified: Azure AI Fundamentals
+- CompTIA DataX
 - Six Sigma Black Belt
 
 ---
 
-### 🔗 Let’s Connect
+## Links
 
-- 💻 GitHub: [github.com/allanmoments](https://github.com/allanmoments)
-
----
-
-_This README is powered by allan and GitHub’s magic._ ✨
+- GitHub: https://github.com/allanmoments
